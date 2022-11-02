@@ -19,7 +19,7 @@
     
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusBarba&layout=compact)](https://github.com/DevMatheusBarba/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusBarba&layout=compact)](https://github.com/DevMatheusBarba/DevMatheusBarba/blob/main/README.md)
 
 Formado em rede de computadores e apaixonado por programação! Atualmente estudando com foco em Front-end, mas também fascinado com o Back-end.
 
