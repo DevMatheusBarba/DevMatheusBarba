@@ -4,7 +4,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silva-720315190/)
  
 
-![MatheusBarba GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMatheusBarba&show_icons=true&theme=highcontrast)
+![MatheusBarba GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMatheusBarba&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusBarba&layout=compact)](https://github.com/DevMatheusBarba/DevMatheusBarba/blob/main/README.md)
+
+
 
 
 ## Tecnologias do meu dia a dia
@@ -19,7 +21,6 @@
     
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMatheusBarba&layout=compact)](https://github.com/DevMatheusBarba/DevMatheusBarba/blob/main/README.md)
 
 Formado em rede de computadores e apaixonado por programação! Atualmente estudando com foco em Front-end, mas também fascinado com o Back-end.
 
