@@ -26,7 +26,6 @@ Formado em rede de computadores e apaixonado por programação! Atualmente estud
 
 ## Contato
 
-![Linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) (11) 94725-8649
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511947258649&text=Ol%C3%A1!%20Vim%20pelo%20seu%20perfil%20do%20GitHub)
 
 ![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) matheusescola.081@gmail.com / matheus.silva081@icloud.com
