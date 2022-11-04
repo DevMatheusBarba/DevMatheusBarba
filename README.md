@@ -26,7 +26,10 @@ Formado em rede de computadores e apaixonado por programação! Atualmente estud
 
 # projetos
 
-[![Gerador-de-Senhas](gerador-senhas.PNG)](https://incandescent-narwhal-84cd57.netlify.app/)
+[![Gerador-de-Senhas](gerador-senhas.PNG)](https://gerador-senhas209215.netlify.app)
+[![Pokedex](Pokedex.PNG)](pokedex209215.netlify.app)
+
+
 
 Site para criação de senhas seguras baseado no padrão alfanumérico.
 
