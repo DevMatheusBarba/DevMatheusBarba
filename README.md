@@ -1,3 +1,9 @@
+# Pokedex
+
+
+Um projeto afins de demonstrar um pouco do conhecimento que vim desenvolvendo com meus estudos na area de programação!
+
+fonte do projeto: https://github.com/manualdodev/pokedex
 
 ### Olá! Eu sou o Matheus Silva. ✌️ 
 
@@ -25,13 +31,26 @@
 Formado em rede de computadores e apaixonado por programação! Atualmente estudando com foco em Front-end, mas também fascinado com o Back-end.
 
 # projetos
+<div style="display: inline block"><br/>
+<a href="https://gerador-senhas209215.netlify.app"><img alt="Gerador-Senha" src="gerador-senhas.png"></a></br>
+<span>Site para criação de senhas seguras baseado no padrão alfanumérico.</span>
 
-[![Gerador-de-Senhas](gerador-senhas.PNG)](https://gerador-senhas209215.netlify.app)
-[![Pokedex](Pokedex.PNG)](pokedex209215.netlify.app)
+</br>
+
+<a href="https://pokedex209215.netlify.app"><img alt="Pokedex" src="Pokedex.png"></a></br>
+<span>Projeto de Pokedex afim de fazer uso do meu conhecimento voltado a JavaScript e um pouco sobre API.</span>
 
 
 
-Site para criação de senhas seguras baseado no padrão alfanumérico.
+
+
+
+
+
+
+</div>
+
+
 
 ## Contato
 
