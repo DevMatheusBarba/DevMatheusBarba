@@ -25,9 +25,10 @@
 Formado em rede de computadores e apaixonado por programação! Atualmente estudando com foco em Front-end, mas também fascinado com o Back-end.
 
 # projetos
-[![Gerador-Senhas](gerador-senhas.png)](https://gerador-senhas209215.netlify.app) Gerador de senhas seguras
+[![Gerador-Senhas](gerador-senhas.png)](https://gerador-senhas209215.netlify.app) </br>
+Gerador de senhas seguras 👆.
                                 
-[![Gerador-Senhas](Pokedex1.png)](https://pokedex209215.netlify.app) Catalago de Pokemons (Pokedex)
+[![Gerador-Senhas](Pokedex1.png)](https://pokedex209215.netlify.app) </br> Catalago de Pokemons (Pokedex) 👆.
 
 
 </div>
