@@ -29,7 +29,7 @@ ___
 </div><br/>
 
 
-Formado em rede de computadores e apaixonado por programação! Atualmente estudando com foco em Front-end, mas também fascinado com o Back-end.
+Formado em rede de computadores e apaixonado por programação! Atualmente estudando com foco em Back-end.
 
 
 ## Contato
